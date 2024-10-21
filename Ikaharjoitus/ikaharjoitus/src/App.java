@@ -5,7 +5,7 @@ public class App {
         // Luodaan skanneri tekstin lukemiseen
         Scanner scanner = new Scanner(System.in);
 
-        // Kysytaan ikaa kayttajalta
+        // Kysytaan ikaa käyttäjältä
         System.out.print("Anna ikäsi: ");
         int ika = scanner.nextInt();
 
