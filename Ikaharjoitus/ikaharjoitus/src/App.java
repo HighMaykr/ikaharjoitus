@@ -53,7 +53,7 @@ public class App {
             }
         }
 
-        // 100 vuoden onnentoivotukset
+        // 100 vuoden syntymäpäivä onnentoivotukset
         if (ika == 100) {
             System.out.println("Onnittelut sadan vuoden saavuttamisesta! Se on upea saavutus!");
             System.out.println("Olet varmasti kokenut kaikenlaista!");
