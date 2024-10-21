@@ -9,7 +9,7 @@ public class App {
         System.out.print("Anna ikäsi: ");
         int ika = scanner.nextInt();
 
-        // Luokitellaan eri ikaluokille println komennot
+        // Luokitellaan eri ikaluokille println komento
         if (ika > 0 && ika < 18) {
             System.out.println("Olet alaikäinen");
 
